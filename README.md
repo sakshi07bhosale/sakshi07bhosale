@@ -17,8 +17,8 @@
 
 ## 🌐 Portfolio & Resume
 
-* 📄 Resume: ](https://drive.google.com/file/d/1YxnJXMx_eZOFyVABteKhM-YNaUQlY5zv/view?usp=drive_link)https://your-resume-link.com
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/)
+* 📄 Resume: [View Resume](https://drive.google.com/file/d/1YxnJXMx_eZOFyVABteKhM-YNaUQlY5zv/view?usp=drive_link)
+* 💼 LinkedIn: [View linkedin Profile](https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/)
 
 ---
 
