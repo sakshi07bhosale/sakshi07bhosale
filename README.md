@@ -1,24 +1,28 @@
 # 👋 Hi, I'm Sakshi Bhosale
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Django+Developer;Always+Learning+New+Things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Django+Developer;Building+Real+World+Projects;Always+Learning+New+Things+🚀">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshi07bhosale&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Student passionate about technology
-💻 Skilled in **HTML, CSS, JavaScript, React, Python, Django**
-🚀 Building real-world projects
-🎯 Goal: Become a professional Software Developer
+🎓 Passionate Student Developer
+💻 Skilled in **Full Stack Development**
+🚀 Love building real-world web applications
+🎯 Goal: Become a professional Software Engineer
 
 ---
 
 ## 🌐 Portfolio & Resume
 
-* 📄 Resume: [View Resume](https://drive.google.com/file/d/1YxnJXMx_eZOFyVABteKhM-YNaUQlY5zv/view?usp=drive_link)
-* 💼 LinkedIn: [View linkedin Profile](https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/)
+* 📄 [View Resume](https://drive.google.com/file/d/1YxnJXMx_eZOFyVABteKhM-YNaUQlY5zv/view?usp=drive_link)
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/)
 
 ---
 
@@ -43,35 +47,42 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-✨ CorseKart-Web application
-✨ Sanjivani college website
-✨ Quick shop-web aplication
+✨ **CorseKart** – E-commerce Web App
+✨ **Sanjivani College Website** – Institutional Website
+✨ **Quick Shop** – Shopping Web Application
 
-👉 Explore all projects in my repositories
+👉 Explore more in my repositories
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshi07bhosale&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi07bhosale&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🧠 Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi07bhosale&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi07bhosale&theme=tokyo-night" />
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=sakshi07bhosale&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://sakshi07bhosale.github.io/sakshi07bhosale/github-contribution-grid-snake.svg" />
@@ -83,10 +94,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:sakshibhosale749@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
@@ -94,4 +105,4 @@
 
 ## ⚡ Fun Fact
 
-✨ I love turning ideas into real-world applications 🚀
+✨ I enjoy turning ideas into real-world applications and learning new tech every day 🚀
