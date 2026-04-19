@@ -56,8 +56,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi07bhosale&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi07bhosale&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -65,16 +65,15 @@
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi07bhosale&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🐍 Contribution Snake Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/sakshi07bhosale/sakshi07bhosale/output/github-contribution-grid-snake.svg" />
 
 ---
 
