@@ -73,7 +73,9 @@
 
 ## 🐍 Contribution Snake Game
 
-<img src="https://raw.githubusercontent.com/sakshi07bhosale/sakshi07bhosale/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://sakshi07bhosale.github.io/sakshi07bhosale/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
