@@ -18,7 +18,7 @@
 ## 🌐 Portfolio & Resume
 
 * 📄 Resume: ](https://drive.google.com/file/d/1YxnJXMx_eZOFyVABteKhM-YNaUQlY5zv/view?usp=drive_link)https://your-resume-link.com
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/)
 
 ---
 
@@ -45,9 +45,9 @@
 
 ## 🚀 Projects
 
-✨ Bus Booking Web App (Django + React)
-✨ Social Media Mini App
-✨ Portfolio Website
+✨ CorseKart-Web application
+✨ Sanjivani college website
+✨ Quick shop-web aplication
 
 👉 Explore all projects in my repositories
 
@@ -81,10 +81,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sakshibhosale749@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
   </a>
 </p>
