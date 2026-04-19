@@ -74,11 +74,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi07bhosale&theme=tokyo-night" />
 
----
-
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakshi07bhosale&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 ---
 
