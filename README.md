@@ -12,10 +12,10 @@
 
 ## 👩‍💻 About Me
 
-🎓 Passionate Student Developer
-💻 Skilled in **Full Stack Development**
-🚀 Love building real-world web applications
-🎯 Goal: Become a professional Software Engineer
+🎓 Passionate Student Developer  
+💻 Skilled in **Full Stack Development**  
+🚀 Love building real-world web applications  
+🎯 Aspiring Software Engineer  
 
 ---
 
