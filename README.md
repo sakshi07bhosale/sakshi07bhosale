@@ -49,12 +49,30 @@
 
 ## 🚀 Featured Projects
 
-✨ **CorseKart** – E-commerce Web App
-✨ **Sanjivani College Website** – Institutional Website
-✨ **Quick Shop** – Shopping Web Application
 
-👉 Explore more in my repositories
+### 🛒 CorseKart – E-commerce Web Application  
+- Developed a full-stack e-commerce platform using **React & Django**  
+- Implemented product listing, cart management, and user authentication  
+- Designed responsive UI for better user experience  
+- Integrated backend APIs for dynamic data handling  
 
+---
+
+### 🏫 Sanjivani College Website  
+- Built a responsive institutional website using **HTML, CSS, JavaScript**  
+- Designed multiple pages for departments, courses, and announcements  
+- Focused on clean UI/UX and mobile responsiveness  
+- Improved accessibility and navigation structure  
+
+---
+
+### 🛍️ Quick Shop – Shopping Web App  
+- Created a modern shopping web app with interactive UI  
+- Implemented product filtering and dynamic components using **JavaScript/React**  
+- Focused on performance optimization and smooth user experience  
+- Structured reusable components for scalability  
+
+---
 ---
 
 ## 📊 GitHub Analytics
