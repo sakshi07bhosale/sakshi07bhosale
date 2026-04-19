@@ -17,8 +17,7 @@
 
 ## 🌐 Portfolio & Resume
 
-* 🌍 Portfolio: https://your-portfolio-link.com
-* 📄 Resume: https://your-resume-link.com
+* 📄 Resume: ](https://drive.google.com/file/d/1YxnJXMx_eZOFyVABteKhM-YNaUQlY5zv/view?usp=drive_link)https://your-resume-link.com
 * 💼 LinkedIn: https://linkedin.com/in/your-profile
 
 ---
