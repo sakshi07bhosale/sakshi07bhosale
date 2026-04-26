@@ -87,6 +87,15 @@
 </p>
 
 ---
+---
+
+## 🧠 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/Sakshi_Bhosale07/">
+    <img src="https://leetcard.jacoblin.cool/Sakshi_Bhosale07?theme=dark&font=Baloo&ext=contest" />
+  </a>
+</p>
 
 ## 📈 Activity Graph
 
