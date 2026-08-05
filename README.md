@@ -31,8 +31,10 @@
 ➡️ **https://sakshi-portofolio.vercel.app/**
 
 ### 📄 Resume (PDF)
+<a href="./SAKSHI-BHOSALE.pdf">
+<img src="https://img.shields.io/badge/SAKSHI-BHOSALE-PDF-red?style=for-the-badge&logo=adobeacrobatreader">
+</a>
 
-➡️ **https://drive.google.com/drive/u/0/my-drive**
 ### 💼 LinkedIn
 
 ➡️ **https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/**
