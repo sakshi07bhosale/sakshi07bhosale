@@ -32,8 +32,7 @@
 
 ### 📄 Resume (PDF)
 
-➡️ **[https://drive.google.com/file/d/1YxnJXMx_eZOFyVABteKhM-YNaUQlY5zv/view?usp=drive_link](https://drive.google.com/drive/u/0/my-drive)**
-
+➡️ **https://drive.google.com/drive/u/0/my-drive**
 ### 💼 LinkedIn
 
 ➡️ **https://www.linkedin.com/in/sakshi-bhosale-2a69b9342/**
